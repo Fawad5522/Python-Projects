@@ -1,0 +1,5 @@
+In method using:
+ Hello everyone 
+ I am learning File I/o 
+ Using JAVA 
+ I like programming in JAVA
